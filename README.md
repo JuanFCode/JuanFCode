@@ -1,6 +1,6 @@
 # 👨🏻‍💻Hola, mi nombre es JuanFCode 👋
 ### Freelance full-stack Engineer
-![](https://photos.google.com/share/AF1QipOPV2tKletGlCrX8OV2qo9Y4q2XyiIAUOu9mEhQGVvJTy7IgFIxJKCj4pbbNZAfqA?key=d2R2SURIUzNGOWlTR0JJbXM1OFhOaldpNndxazVR)
+[42-sin-ti-tulo-20230407162832.jpg](https://postimg.cc/Yjz2z5VY)
 Soy un ingeniero informático con habilidades técnicas en lenguajes de programación, bases de datos y herramientas de desarrollo. Además, cuento con habilidades de análisis y resolución de problemas, capacidad de trabajo en equipo y liderazgo. Me apasiona el desarrollo de software y tengo experiencia en proyectos en diferentes industrias.<br>
 
 
