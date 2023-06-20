@@ -1,6 +1,6 @@
 # 👨🏻‍💻Hola, mi nombre es Juan Felipe  👋
 ### Freelance full-stack Engineer
-[![48-sin-ti-tulo-20230407183315.jpg](https://i.postimg.cc/5yZC6QQy/48-sin-ti-tulo-20230407183315.jpg)](https://postimg.cc/n9GzWzkf)
+[![45-sin-ti-tulo-20230520170656.jpg](https://i.postimg.cc/P5JWdc53/45-sin-ti-tulo-20230520170656.jpg)](https://postimg.cc/bZXDTmbk)
 Soy un ingeniero informático con habilidades técnicas en lenguajes de programación, bases de datos y herramientas de desarrollo. Además, cuento con habilidades de análisis y resolución de problemas, capacidad de trabajo en equipo y liderazgo. Me apasiona el desarrollo de software y tengo experiencia en proyectos en diferentes industrias.<br>
 
 
