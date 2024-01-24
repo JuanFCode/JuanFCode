@@ -1,7 +1,16 @@
 # 👨🏻‍💻Hola, mi nombre es Juan Felipe  👋
 ### Freelance full-stack Engineer
 [![45-sin-ti-tulo-20230520170656.jpg](https://i.postimg.cc/P5JWdc53/45-sin-ti-tulo-20230520170656.jpg)](https://postimg.cc/bZXDTmbk)
-Soy un ingeniero informático con habilidades técnicas en lenguajes de programación, bases de datos y herramientas de desarrollo. Además, cuento con habilidades de análisis y resolución de problemas, capacidad de trabajo en equipo y liderazgo. Me apasiona el desarrollo de software y tengo experiencia en proyectos en diferentes industrias.<br>
+Ingeniero de datos con experiencia en construcción de bodegas de
+datos y arquitecturas eficientes. Especializado en optimizar el flujo y la
+recopilación de datos para decisiones basadas en datos. Destaco en
+SQL, ETL, modelado de datos, Ciencia de Datos y Python. Implementé
+con éxito un modelo predictivo para medir la calidad del aire en
+Colombia. Además, tengo experiencia en análisis de datos utilizando
+herramientas como Python, SQL, Tableau, Power BI y la suite de BI de
+Microsoft, así como en Pentaho Data Integration. Reconocido por
+resolver problemas, atención a detalles y entrega de resultados de alta
+calidad.<br>
 
 
 ## 🌐 Socials:
