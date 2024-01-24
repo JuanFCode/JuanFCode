@@ -1,5 +1,5 @@
 # 👨🏻‍💻Hola, mi nombre es Juan Felipe  👋
-### Freelance full-stack Engineer
+### ETL - BI - Business Intelligence - Data analytics | Data Science
 [![45-sin-ti-tulo-20230520170656.jpg](https://i.postimg.cc/P5JWdc53/45-sin-ti-tulo-20230520170656.jpg)](https://postimg.cc/bZXDTmbk)
 Ingeniero de datos con experiencia en construcción de bodegas de
 datos y arquitecturas eficientes. Especializado en optimizar el flujo y la
