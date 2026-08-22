@@ -46,6 +46,7 @@ Microsoft Fabric (DP-700) · dbt · Apache Airflow · PySpark · Databricks
 
 | Proyecto | De qué se trata |
 |---|---|
+| **Modelo predictivo de calidad del aire** | ETL sobre millones de registros de calidad del aire en Colombia, con un modelo predictivo montado en Power BI que contrasta valores proyectados contra mediciones reales |
 | [**pae-reporte-2025**](https://github.com/JuanFCode/pae-reporte-2025) | Tablero de analítica del Programa de Alimentación Escolar de Colombia, con datos oficiales de cobertura por departamento. [Ver en vivo →](https://pae-reporte-2025.vercel.app) |
 | [**georeferencia_cauca**](https://github.com/JuanFCode/georeferencia_cauca) | Datos geoespaciales (GeoJSON) de los municipios del Cauca |
 | [**poker-de-0-a-profesional**](https://github.com/JuanFCode/poker-de-0-a-profesional) | Entrenador de rangos de póker en TypeScript |
