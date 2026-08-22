@@ -1,34 +1,61 @@
-# 👨🏻‍💻Hola, mi nombre es Juan Felipe  👋
-### ETL - BI - Business Intelligence - Data analytics | Data Science
-[![45-sin-ti-tulo-20230520170656.jpg](https://i.postimg.cc/P5JWdc53/45-sin-ti-tulo-20230520170656.jpg)](https://postimg.cc/bZXDTmbk)
-Ingeniero de datos con experiencia en construcción de bodegas de
-datos y arquitecturas eficientes. Especializado en optimizar el flujo y la
-recopilación de datos para decisiones basadas en datos. Destaco en
-SQL, ETL, modelado de datos, Ciencia de Datos y Python. Implementé
-con éxito un modelo predictivo para medir la calidad del aire en
-Colombia. Además, tengo experiencia en análisis de datos utilizando
-herramientas como Python, SQL, Tableau, Power BI y la suite de BI de
-Microsoft, así como en Pentaho Data Integration. Reconocido por
-resolver problemas, atención a detalles y entrega de resultados de alta
-calidad.<br>
+# Hola, soy Juan Felipe Jiménez Lozada
 
+### Ingeniero de Datos · ETL/ELT · Azure · SQL · Power BI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/juanfcode.col/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-jim%C3%A9nez-lozada-6300b6228/)
+Ingeniero de datos con 9 años en tecnología, los últimos 3 enfocados en ingeniería de datos:
+procesos ETL/ELT, bodegas de datos y modelos analíticos para el sector público colombiano.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+Diseñé la arquitectura cloud y los pipelines de la **Fase I del Modelo de Analítica de Datos del
+Programa de Alimentación Escolar (PAE)**, integrando fuentes oficiales del sector educativo
+(SIMAT, SiPAE, FFIE, SISE) bajo el Marco de Arquitectura Empresarial y las políticas de Gobierno
+Digital.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JuanFCode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+Construí el **Observatorio de Vigilancia en Salud Pública del Cauca** a lo largo de cuatro
+contratos consecutivos, desplegado en los 42 municipios del departamento.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JuanFCode&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+**Mi diferencial es el dominio:** entiendo los sistemas de información del Estado colombiano en
+salud y educación, no solo la herramienta técnica.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JuanFCode&icon=8&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Stack
+
+**Datos**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-CC0000?style=for-the-badge&logo=pentaho&logoColor=white)
+![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Lenguajes y herramientas**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**En formación activa — 2026**
+Microsoft Fabric (DP-700) · dbt · Apache Airflow · PySpark · Databricks
+
+---
+
+### 📌 Proyectos
+
+| Proyecto | De qué se trata |
+|---|---|
+| [**pae-reporte-2025**](https://github.com/JuanFCode/pae-reporte-2025) | Tablero de analítica del Programa de Alimentación Escolar de Colombia, con datos oficiales de cobertura por departamento. [Ver en vivo →](https://pae-reporte-2025.vercel.app) |
+| [**georeferencia_cauca**](https://github.com/JuanFCode/georeferencia_cauca) | Datos geoespaciales (GeoJSON) de los municipios del Cauca |
+| [**poker-de-0-a-profesional**](https://github.com/JuanFCode/poker-de-0-a-profesional) | Entrenador de rangos de póker en TypeScript |
+
+---
+
+### 📫 Contacto
+
+[![CV](https://img.shields.io/badge/Hoja%20de%20Vida-1a4f8a?style=for-the-badge&logo=readdotcv&logoColor=white)](https://cv-juan-jimenez.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-felipe-jim%C3%A9nez-lozada-6300b6228/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanfe127jimenez@icloud.com)
+
+Abierto a oportunidades 100% remotas · Popayán, Colombia · Zona horaria COT (UTC-5)
